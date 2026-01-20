@@ -1,1 +1,5 @@
 java is programing language 
+
+public class {
+  int i = 1;
+}
